@@ -1,0 +1,16 @@
+.head {
+  display: flex;
+  justify-content: center;
+}
+
+.head h1 {
+  text-align: center;
+  color: black;
+}
+
+.head .logo {
+  width: 60px;
+  height: 60px;
+  margin-top: 10px;
+  margin-right: 15px;
+}
